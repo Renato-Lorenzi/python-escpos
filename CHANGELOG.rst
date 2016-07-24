@@ -2,14 +2,17 @@
 Changelog
 *********
 
-2016-??-?? - Version 2.1.? - "Contents May Differ"
+2016-??-?? - Version 2.2.0 - "Contents May Differ"
 --------------------------------------------------
 
 changes
 ^^^^^^^
+- feature: the driver tries now to guess the appropriate codepage and sets it automatically
+- as an alternative you can force the codepage with the old API
 
 contributors
 ^^^^^^^^^^^^
+- Patrick Kanzler (with code by Frédéric Van der Essen)
 
 2016-07-23 - Version 2.1.0 - "But Who's Counting?"
 --------------------------------------------------
